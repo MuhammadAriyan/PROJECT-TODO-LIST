@@ -1,0 +1,14 @@
+{
+  "name": "project-03-(-to-do-list)",
+  "version": "1.0.0",
+  "bin" : "./todo.js",
+  "description": "HEY THERE, THERE IT IS MY TO DO LIST APP ON CLI",
+  "type" : "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ARYAN",
+  "license": "ISC"
+}
